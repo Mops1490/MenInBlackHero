@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Heroes of Might and Magic III</string>
+    <string name="a1">Architecture</string>
+    <string name="a2">Crafts</string>
+    <string name="a3">Business</string>
+    <string name="a4">Culinary</string>
+    <string name="a5">Design</string>
+    <string name="a6">Fashion</string>
+    <string name="a7">Film</string>
+    <string name="a8">Gaming</string>
+    <string name="a9">Lifestyle</string>
+    <string name="a10">Music</string>
+    <string name="a11">Painting</string>
+    <string name="a12">Photography</string>
+    <string name="a13">Tech</string>
+    <string name="a14">Tech</string>
+    <string name="a15">Tech</string>
+    <string name="a16">Tech</string>
+    <string name="a17">Tech</string>
+    <string name="a18">Tech</string>
 </resources>
